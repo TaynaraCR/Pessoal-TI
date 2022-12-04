@@ -36,7 +36,7 @@ public void exibe(string p,int num,string n,string a,string d,bool s){
     Console.WriteLine(" condição: "+s); 
   
 }//void exibe
-}//class Pessoa
+}//class Jogador
 class Helloword{
 static void Main(){
 
@@ -107,7 +107,7 @@ break;
 
 
 
-//código do programa
+//código do programa  não vai ficar aqui esse bloco
   Jogador j1=new Jogador();
   Jogador j2=new Jogador();
   Jogador j3=new Jogador();
